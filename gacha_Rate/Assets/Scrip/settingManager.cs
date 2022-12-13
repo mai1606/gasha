@@ -145,15 +145,15 @@ public class settingManager : MonoBehaviour
     { 
         if(type == 0)
         {
-            timeSave += 10;
+            timeSave += 1;
         }
         else
         {
-            timeSave -= 10;
+            timeSave -= 1;
         }
         if(timeSave < 10)
         {
-            timeSave = 10;
+            timeSave = 1;
         }
         _text.time.text = "Time save : "+(timeSave ).ToString()+" s";
     }
