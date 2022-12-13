@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a7f0e6288a34a34ab05146713468b94, type: 3}
+  m_Name: rate_5
+  m_EditorClassIdentifier: 
+  name: "\u0E1A\u0E31\u0E15\u0E23\u0E01\u0E33\u0E19\u0E31\u0E25 Starbucks <br>\u0E21\u0E39\u0E25\u0E04\u0E48\u0E32
+    100 \u0E1A\u0E32\u0E17 "
+  logoReward: {fileID: 21300000, guid: 80288a4df6dffef46b9b097841f9d77c, type: 3}
+  IamgeCard: {fileID: 21300000, guid: 2c4dae21f0ff91f45a0ff234f815c502, type: 3}
+  number: 5
